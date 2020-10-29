@@ -1,7 +1,3 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
+# Robofriends
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Fun little test app for trying out stuff and learning React, Redux, PWA, Testing and more.
